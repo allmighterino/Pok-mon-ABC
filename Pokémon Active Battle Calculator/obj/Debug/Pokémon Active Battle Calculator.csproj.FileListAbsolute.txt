@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\jt\new begining 2019\windows forms c#\Pokémon Active Battle Calculator\Pokémon Active Battle Calculator\bin\Debug\Pokémon Active Battle Calculator.exe.config
+C:\Users\Usuario\Desktop\jt\new begining 2019\windows forms c#\Pokémon Active Battle Calculator\Pokémon Active Battle Calculator\bin\Debug\Pokémon Active Battle Calculator.exe
+C:\Users\Usuario\Desktop\jt\new begining 2019\windows forms c#\Pokémon Active Battle Calculator\Pokémon Active Battle Calculator\bin\Debug\Pokémon Active Battle Calculator.pdb
+C:\Users\Usuario\Desktop\jt\new begining 2019\windows forms c#\Pokémon Active Battle Calculator\Pokémon Active Battle Calculator\obj\Debug\Pokémon Active Battle Calculator.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\jt\new begining 2019\windows forms c#\Pokémon Active Battle Calculator\Pokémon Active Battle Calculator\obj\Debug\Pokémon_Active_Battle_Calculator.Form1.resources
+C:\Users\Usuario\Desktop\jt\new begining 2019\windows forms c#\Pokémon Active Battle Calculator\Pokémon Active Battle Calculator\obj\Debug\Pokémon_Active_Battle_Calculator.Properties.Resources.resources
+C:\Users\Usuario\Desktop\jt\new begining 2019\windows forms c#\Pokémon Active Battle Calculator\Pokémon Active Battle Calculator\obj\Debug\Pokémon Active Battle Calculator.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\jt\new begining 2019\windows forms c#\Pokémon Active Battle Calculator\Pokémon Active Battle Calculator\obj\Debug\Pokémon Active Battle Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\jt\new begining 2019\windows forms c#\Pokémon Active Battle Calculator\Pokémon Active Battle Calculator\obj\Debug\Pokémon Active Battle Calculator.exe
+C:\Users\Usuario\Desktop\jt\new begining 2019\windows forms c#\Pokémon Active Battle Calculator\Pokémon Active Battle Calculator\obj\Debug\Pokémon Active Battle Calculator.pdb
+C:\Users\Usuario\Desktop\jt\new begining 2019\windows forms c#\Pokémon Active Battle Calculator\Pokémon Active Battle Calculator\obj\Debug\Pokémon_Active_Battle_Calculator.Form2.resources
+C:\Users\Usuario\Desktop\jt\new begining 2019\windows forms c#\Pokémon Active Battle Calculator\Pokémon Active Battle Calculator\obj\Debug\Pokémon_Active_Battle_Calculator.Form3.resources
+C:\Users\Usuario\Desktop\jt\new begining 2019\windows forms c#\Pokémon Active Battle Calculator\Pokémon Active Battle Calculator\obj\Debug\Pokémon_Active_Battle_Calculator.Form4.resources
+C:\Users\Usuario\Desktop\jt\new begining 2019\windows forms c#\Pokémon Active Battle Calculator\Pokémon Active Battle Calculator\obj\Debug\Pokémon_Active_Battle_Calculator.Form5.resources
